@@ -1,4 +1,4 @@
 # CGTest
 First Testing Repository.
 <br>
-Author- Avinash Joshi
+Author- Avinash (Joshi)
